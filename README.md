@@ -44,6 +44,6 @@
 > use db_spinof3
 
 ### installation de pymongo pour les scripts : 
-> pip3 install pymongo
+> pip install pymongo
 
 ## Voila, il ne vous reste plus qu'a lancer dans l'ordre les cases dans le jupyter lab pour créer la bdd et y insérer les données.
